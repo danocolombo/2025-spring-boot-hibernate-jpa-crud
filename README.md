@@ -12,3 +12,7 @@ You will need the following settings to run properly
 The following settings are optional
 - spring.main.banner-mode=off 
 - logging.level.root=warn
+
+---
+### Project Features
+- Use Entity Manager to insert student into database
